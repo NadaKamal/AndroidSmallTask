@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="loading_retry">Retry</string>
+    <string name="empty_data">No Data Available</string>
+    <string name="title_images">Images</string>
+    <string name="title_videos">Videos</string>
+</resources>

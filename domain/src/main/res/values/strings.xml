@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_invalid_input">Invalid Input</string>
+    <string name="network_unauthorized">Unauthorized</string>
+    <string name="network_forbidden">Forbidden</string>
+    <string name="network_not_found">Not Found</string>
+    <string name="network_server_error">Server Error</string>
+    <string name="network_time_out">Timeout</string>
+    <string name="network_connection_error">Connection Error</string>
+    <string name="network_unknown_error">Unknown Error</string>
+</resources>

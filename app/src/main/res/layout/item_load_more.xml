@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--    <com.app.loadinganimation.LoadingAnimation-->
+        <!--        android:id="@+id/loadingView"-->
+        <!--        android:layout_width="wrap_content"-->
+        <!--        android:layout_height="wrap_content"-->
+        <!--        android:layout_centerInParent="true"-->
+        <!--        android:elevation="@dimen/_10sdp"-->
+        <!--        app:barType="@drawable/man_loading"-->
+        <!--        app:enlarge="1" />-->
+    </RelativeLayout>
+</layout>
